@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-qorebase/static/css/main.f8ead0f1.css",
+    "main.js": "/react-qorebase/static/js/main.f5c8e38c.js",
+    "static/js/787.8c831506.chunk.js": "/react-qorebase/static/js/787.8c831506.chunk.js",
+    "index.html": "/react-qorebase/index.html",
+    "static/media/logo.svg": "/react-qorebase/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "main.f8ead0f1.css.map": "/react-qorebase/static/css/main.f8ead0f1.css.map",
+    "main.f5c8e38c.js.map": "/react-qorebase/static/js/main.f5c8e38c.js.map",
+    "787.8c831506.chunk.js.map": "/react-qorebase/static/js/787.8c831506.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ead0f1.css",
+    "static/js/main.f5c8e38c.js"
+  ]
+}
